@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RyeAnneRicker
-- 👀 I’m interested in Data Science! I'm a PhD student at George Washington University in Biomedical Engineering. I am currently a Research Fellow
-- at the National Institute of Health. 
-- 🌱 I’m currently learning how to analyze bioinformatics data using Python and R.
+- 👀 I'm a PhD student at George Washington University in Biomedical Engineering. I am completing my research fellowship at the National Institute of Health.  
+- 🌱 My research focuses on analyzing Raman spectra for the rapid characterization and identification of viruses. I use a variety of techniques within the fields of signal processing, computer vision, and machine learning. 
 
 <!---
 RyeAnneRicker/RyeAnneRicker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
